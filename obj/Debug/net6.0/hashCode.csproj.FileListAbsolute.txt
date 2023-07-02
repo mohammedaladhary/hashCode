@@ -1,0 +1,15 @@
+C:\Users\TRA\Desktop\code_TRA\hashCode\bin\Debug\net6.0\hashCode.exe
+C:\Users\TRA\Desktop\code_TRA\hashCode\bin\Debug\net6.0\hashCode.deps.json
+C:\Users\TRA\Desktop\code_TRA\hashCode\bin\Debug\net6.0\hashCode.runtimeconfig.json
+C:\Users\TRA\Desktop\code_TRA\hashCode\bin\Debug\net6.0\hashCode.dll
+C:\Users\TRA\Desktop\code_TRA\hashCode\bin\Debug\net6.0\hashCode.pdb
+C:\Users\TRA\Desktop\code_TRA\hashCode\obj\Debug\net6.0\hashCode.csproj.AssemblyReference.cache
+C:\Users\TRA\Desktop\code_TRA\hashCode\obj\Debug\net6.0\hashCode.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TRA\Desktop\code_TRA\hashCode\obj\Debug\net6.0\hashCode.AssemblyInfoInputs.cache
+C:\Users\TRA\Desktop\code_TRA\hashCode\obj\Debug\net6.0\hashCode.AssemblyInfo.cs
+C:\Users\TRA\Desktop\code_TRA\hashCode\obj\Debug\net6.0\hashCode.csproj.CoreCompileInputs.cache
+C:\Users\TRA\Desktop\code_TRA\hashCode\obj\Debug\net6.0\hashCode.dll
+C:\Users\TRA\Desktop\code_TRA\hashCode\obj\Debug\net6.0\refint\hashCode.dll
+C:\Users\TRA\Desktop\code_TRA\hashCode\obj\Debug\net6.0\hashCode.pdb
+C:\Users\TRA\Desktop\code_TRA\hashCode\obj\Debug\net6.0\hashCode.genruntimeconfig.cache
+C:\Users\TRA\Desktop\code_TRA\hashCode\obj\Debug\net6.0\ref\hashCode.dll
